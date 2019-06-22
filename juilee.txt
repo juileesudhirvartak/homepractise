@@ -42,5 +42,4 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 
 
-
-working tree is not clean
+jui
